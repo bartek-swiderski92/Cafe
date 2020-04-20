@@ -42,7 +42,7 @@
       $(input).addClass('strong-coffee')
     }
   }
-changeInputColor('#mocKawy', mocKawy.value)
+changeInputColor('#wartośćMocKawy', mocKawy.value)
   Aplikacja.ObsługaFormularza = ObsługaFormularza;
   window.Aplikacja = Aplikacja;
 })(window);
